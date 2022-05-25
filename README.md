@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center"> Software Developer</h3>
 
-###  Un poco más sobre mi...
-Desarrollador de software, interesado en trabajar en áreas como: Desarrollo de software, QA y computación en la nube. Soy muy trabajador, diligente y dedicado, cualidades que empleo en todo lo que realizo.
+###  A little more about me...
+Software developer, interested in working in areas such as: Software development, QA and cloud computing. I am very hard-working, diligent and dedicated, qualities that I use in everything I do.
 
 
 [![Linkedin: santiago-vasquez](https://img.shields.io/badge/-santiagovasquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-vasquez-456009227/)](https://www.linkedin.com/in/santiago-vasquez-456009227/)
@@ -10,16 +10,16 @@ Desarrollador de software, interesado en trabajar en áreas como: Desarrollo de 
 
 ---
 
-🔭 Actualmente soy **Freelancer**
+🔭 I am currently a **Freelancer**
 
-🌱 Actualmente estoy aprendiendo **React y Node**
+🌱 I am currently learning **React and Node**
 
-📫 Cómo contactarme savm312@gmail.com
+📫 How to contact me savm312@gmail.com
 
 
 ---
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santiago-vasquez-456009227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagovasquez" height="40" width="50" /></a>
 <a href="https://www.instagram.com/santiago_vm10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiago" height="40" width="50" /></a>
@@ -27,7 +27,7 @@ Desarrollador de software, interesado en trabajar en áreas como: Desarrollo de 
 
 ---
 
-<h3 align="left">Tengo conocimientos sobre:</h3>
+<h3 align="left">I have knowledge about:</h3>
 
 ##### Programming languages
 
